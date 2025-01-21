@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "sync_folder": "./shared_folder",
+    "encryption_key": "your_base64_encoded_aes_key_here",
+    "whitelist_file": "whitelist.txt"
+}
